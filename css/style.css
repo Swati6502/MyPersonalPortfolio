@@ -847,7 +847,7 @@ button{
 }
 @media (max-width:767px) {
     .contact-form,
-    .contact-info
+    .contact-info,
     .about-img,
     .about-text{
         width: 100%;
